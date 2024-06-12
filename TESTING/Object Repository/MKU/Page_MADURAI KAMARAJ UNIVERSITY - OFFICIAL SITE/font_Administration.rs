@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Administration</name>
+   <tag></tag>
+   <elementGuidId>3a32c843-9127-48b1-8a18-720b86acac1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Academic Council Members'])[1]/following::font[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Administration&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>db692df0-2597-4824-b565-e197670b7e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>5d0ec627-f0be-4fd3-9d2e-7afea730260e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Administration </value>
+      <webElementGuid>3c8d889a-3bd0-4af9-bc5d-d8cf0c07fbe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;navbar navbar-fixed-top navbar-default&quot;]/div[@class=&quot;navbar&quot;]/div[@class=&quot;collapse navbar-collapse js-navbar-collapse&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown mega-dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;style10&quot;]/font[1]</value>
+      <webElementGuid>aa51ac81-ad24-4694-9691-8772ab13bff1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academic Council Members'])[1]/following::font[1]</value>
+      <webElementGuid>bf459dc2-e07d-4ed7-b795-8e254b81795c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Senate Members'])[1]/following::font[1]</value>
+      <webElementGuid>7f37c786-5967-4658-911f-ff829f96ecf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[2]/preceding::font[1]</value>
+      <webElementGuid>9f7e447f-0b24-460b-93d1-85fc17929e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[3]/preceding::font[1]</value>
+      <webElementGuid>66ace180-61a2-4c85-8057-1137c7faab6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Administration']/parent::*</value>
+      <webElementGuid>1d9efd36-e730-4e97-bab5-1f3b8e8c34df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[3]/li/a/span/font</value>
+      <webElementGuid>a2f890a2-6aa7-4bfe-909c-3fe4972967f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'Administration ' or . = 'Administration ')]</value>
+      <webElementGuid>fbd173bf-c35f-45b1-9b73-0f695f573f64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

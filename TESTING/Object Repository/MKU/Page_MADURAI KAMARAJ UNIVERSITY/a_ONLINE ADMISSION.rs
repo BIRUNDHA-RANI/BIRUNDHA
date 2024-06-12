@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ONLINE ADMISSION</name>
+   <tag></tag>
+   <elementGuidId>c4c5d975-5c8c-4776-bf1a-37efc93c9449</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topFixedNavbar1']/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav.navbar-nav > li:nth-of-type(5) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;ONLINE ADMISSION&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e0b6c2e5-ee3b-45b1-8cc8-e38f66efa2e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://mkuniversityadmission.samarth.edu.in/july24/</value>
+      <webElementGuid>f9f5e73a-034d-45b6-bcc8-0d67b590d55f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>773f7e13-61b2-468a-9dba-3b8a883f78c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ONLINE ADMISSION </value>
+      <webElementGuid>ae3f17ba-fff7-4e33-89f5-88c583f7a24b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topFixedNavbar1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[5]/a[1]</value>
+      <webElementGuid>bbb496e2-6b6c-4d3e-9c05-6d8d472bc1f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topFixedNavbar1']/ul/li[5]/a</value>
+      <webElementGuid>11a8e8cd-4b71-45c1-bb35-110586b4e432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Details'])[1]/following::a[1]</value>
+      <webElementGuid>444f2d5a-6617-469a-a054-1a80f5cdde00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application &amp; Remittance'])[1]/following::a[2]</value>
+      <webElementGuid>01fa8753-808f-4997-8a02-3d2600f3b32d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN'])[1]/preceding::a[1]</value>
+      <webElementGuid>b9582020-6041-4110-9c5c-9d0da4e2328d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://mkuniversityadmission.samarth.edu.in/july24/')]</value>
+      <webElementGuid>34a36b63-46d5-4508-a5a0-42c799fb3894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>e76e12d3-6f64-4ad2-ba48-008ec60ff05b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://mkuniversityadmission.samarth.edu.in/july24/' and (text() = ' ONLINE ADMISSION ' or . = ' ONLINE ADMISSION ')]</value>
+      <webElementGuid>e2ebc079-9d03-4f09-a984-21a94592eb51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

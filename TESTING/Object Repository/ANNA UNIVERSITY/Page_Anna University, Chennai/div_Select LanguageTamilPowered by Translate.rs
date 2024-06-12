@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select LanguageTamilPowered by Translate</name>
+   <tag></tag>
+   <elementGuidId>2a402a94-69f0-4f3b-95e0-577a4d77e5bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='google_translate_element']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.skiptranslate.goog-te-gadget</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Select LanguageTamil Powered by Translate&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a089781e-d46f-4d99-a557-799f822639a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>skiptranslate goog-te-gadget</value>
+      <webElementGuid>31ab862b-722b-4809-94e4-09f58dac09be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>409ee608-e56f-4a8d-a0aa-a9521d850335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select LanguageTamil  Powered by Translate</value>
+      <webElementGuid>0defee39-390c-4aac-a0f2-407a8f226192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;google_translate_element&quot;)/div[@class=&quot;skiptranslate goog-te-gadget&quot;]</value>
+      <webElementGuid>c101f44a-c257-4841-9abb-5878815c1322</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='google_translate_element']/div</value>
+      <webElementGuid>adde1e6d-5852-46b2-a150-e974006b2526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[2]</value>
+      <webElementGuid>b4b46f71-b259-40be-b200-c5db3fce8772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div</value>
+      <webElementGuid>aa6a5daa-2a5f-4195-b37e-b60f4107bbaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select LanguageTamil  Powered by Translate' or . = 'Select LanguageTamil  Powered by Translate')]</value>
+      <webElementGuid>4ca3bfa9-9719-4418-8e76-7261b2f6fd92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

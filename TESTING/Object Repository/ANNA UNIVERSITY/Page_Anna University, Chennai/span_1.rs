@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>967181a6-8485-4ffd-975d-e42847b569fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='bg']/div/header/div/div/div[2]/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Toggle navigation&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8676e15d-a312-4db6-a48d-181bd5894a81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bg&quot;)/div[@class=&quot;page-wraper&quot;]/header[@class=&quot;site-header mo-left header&quot;]/div[@class=&quot;sticky-header main-bar-wraper navbar-expand-lg&quot;]/div[@class=&quot;main-bar clearfix&quot;]/div[@class=&quot;container clearfix&quot;]/button[@class=&quot;navbar-toggler collapsed navicon justify-content-end&quot;]/span[2]</value>
+      <webElementGuid>18d39e34-eb07-431e-9d9b-0bda6ef353fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='bg']/div/header/div/div/div[2]/button/span[2]</value>
+      <webElementGuid>37c0d5bc-0877-4ba1-982a-69d190838afe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>e691f485-8cc3-4e99-baf7-7a9069906f29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

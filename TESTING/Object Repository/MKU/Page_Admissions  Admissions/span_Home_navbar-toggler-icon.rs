@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Home_navbar-toggler-icon</name>
+   <tag></tag>
+   <elementGuidId>6acc2dc0-1917-4720-abc2-1716bef9af5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[2]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nav.navbar.navbar-expand-lg.navbar-dark.level-2-bg.px-0.py-3 > div.container-xl > button.navbar-toggler > span.navbar-toggler-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Home Public Notice Prospectus Programme Schedule FAQ Contact Us New Registration&quot;i >> internal:label=&quot;Toggle navigation&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fdf126cc-7c4a-4f6b-b8bd-8aa8277747e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar-toggler-icon</value>
+      <webElementGuid>93c40711-56b2-4821-a7a3-170598708e69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/nav[@class=&quot;navbar navbar-expand-lg navbar-dark  level-2-bg px-0 py-3&quot;]/div[@class=&quot;container-xl&quot;]/button[@class=&quot;navbar-toggler&quot;]/span[@class=&quot;navbar-toggler-icon&quot;]</value>
+      <webElementGuid>118d2af3-5081-4ab8-aaaa-3fee9886114c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav[2]/div/button/span</value>
+      <webElementGuid>dc7b8804-f362-41af-af80-55d3f7c88b67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Contact Us_fa fa-times fa-2x</name>
+   <tag></tag>
+   <elementGuidId>bee4a59b-94b5-407e-ae31-79816f1d1f45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='css-only-modals']/div/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#css-only-modals i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>552c2617-c268-41d1-b8d7-5f9d95e9340c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times fa-2x</value>
+      <webElementGuid>9c29e072-8938-4ed2-a1b5-826f6bdc5278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;css-only-modals&quot;)/div[@class=&quot;css-only-modal&quot;]/label[@class=&quot;css-only-modal-close&quot;]/i[@class=&quot;fa fa-times fa-2x&quot;]</value>
+      <webElementGuid>95658592-bda1-4f3c-afb6-b95b57662009</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='css-only-modals']/div/label/i</value>
+      <webElementGuid>3cf3daf9-8f21-434d-94ab-80f15c95a520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>6a99a44f-fe37-48ac-8426-2697b0773f95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
